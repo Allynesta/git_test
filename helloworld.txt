@@ -1,3 +1,5 @@
 I am writing my first text here
 
 Welcome to my blog
+
+Added a new line to my text file 
